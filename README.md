@@ -42,6 +42,6 @@ The chatbot uses the Google Gemini Model to generate content based on user queri
 "What is Artificial Intelligence?"
 <!--Code start-->
 ### Output:
-Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to
+    Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to
 <!--Code end-->
 
